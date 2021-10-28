@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizi in classe\\Esercizio1\\Esercizio1.csproj": {}
+    "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizio1\\Esercizio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizi in classe\\Esercizio1\\Esercizio1.csproj": {
+    "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizio1\\Esercizio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizi in classe\\Esercizio1\\Esercizio1.csproj",
+        "projectUniqueName": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizio1\\Esercizio1.csproj",
         "projectName": "Esercizio1",
-        "projectPath": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizi in classe\\Esercizio1\\Esercizio1.csproj",
+        "projectPath": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizio1\\Esercizio1.csproj",
         "packagesPath": "C:\\Users\\Elisa Calza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizi in classe\\Esercizio1\\obj\\",
+        "outputPath": "C:\\Users\\Elisa Calza\\OneDrive\\Università di informatica\\TAP\\ESERCIZI\\Esercizio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elisa Calza\\AppData\\Roaming\\NuGet\\NuGet.Config",
